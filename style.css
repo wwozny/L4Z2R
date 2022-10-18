@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.mainpage{
+    font-weight: bold;
+}
+
+nav{
+    background-color: #2b2b2b;
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+a{
+    color: white;
+}
